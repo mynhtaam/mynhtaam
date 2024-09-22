@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **in building a website!**
 
-- 💬 Ask me about **C#, HTML, CSS and Reac**
+- 💬 Ask me about **C#, HTML, CSS and React**
 
 - ⚡ Fun fact **I look younger than my age :D**
   
