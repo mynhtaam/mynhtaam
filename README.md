@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm mynh_taam</h1>
 <h3 align="center">I'm still learning programming and trying harder every day!</h3>
 
-- 🌱 I’m currently learning **React Framework and English**
+- 🌱 I’m currently learning **C#, .NET, ASP.NET Core and English**
 
-- 🤝 I’m looking for help with **in building a website!**
+- 🤝 I’m looking for help with **
+in building a website!**
 
-- 💬 Ask me about **C#, HTML, CSS and React**
+- 💬 Ask me about **C#, HTML, CSS and .NET, ASP.NET Core**
 
 - ⚡ Fun fact **I look younger than my age :D**
   
