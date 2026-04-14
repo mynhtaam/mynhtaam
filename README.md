@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm mynh_taam</h1>
-<h3 align="center">I'm still learning programming and trying harder every day!</h3>
+<h3 align="center">IT Helpdesk | Aspiring Network Engineer & Cyber Security Enthusiast</h3>
 
-- 🌱 I’m currently learning **C#, .NET, ASP.NET Core and English**
+- 🌱 I’m currently learning **CCNA, MCSA, and Network Security fundamentals.**
 
-- 🤝 I’m looking for help with **
-in building a website!**
+- 🎯 Goal: Transitioning into a Network Engineer role.
 
-- 💬 Ask me about **C#, HTML, CSS and .NET, ASP.NET Core**
+- 🛠️ Projects: Building virtual labs on Cisco Packet Tracer / GNS3.
+
+- 💬 Ask me about **Networking basics, Troubleshooting, Windows Server, or C# automation**
 
 - ⚡ Fun fact **I look younger than my age :D**
   
